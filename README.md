@@ -1,2 +1,2 @@
 # GDInstaller
-This is the gd 2.2 installer
+Here you can install gd 2.2 :D
